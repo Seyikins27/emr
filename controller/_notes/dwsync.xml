@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="C:/wamp/www/HIS/" local="131292816161260468" remote="131292816160000000" Dst="0" />
+<file name="login.php" server="C:/wamp/www/HIS/" local="131292868833353140" remote="131292868830000000" Dst="0" />
+<file name="doctor.php" server="C:/wamp/www/HIS/" local="131325264571320755" remote="131325264570000000" Dst="1" />
+<file name="pharmacy.php" server="C:/wamp/www/HIS/" local="131295465449418942" remote="131295465440000000" Dst="0" />
+<file name="frontdesk.php" server="C:/wamp/www/HIS/" local="131325890354541050" remote="131325890350000000" Dst="1" />
+<file name="laboratory.php" server="C:/wamp/www/HIS/" local="131325943654841446" remote="131325943650000000" Dst="1" />
+<file name="register.php" server="C:/wamp/www/HIS/" local="131319957975810782" remote="131319957970000000" Dst="1" />
+<file name="nurse.php" server="C:/wamp/www/HIS/" local="131295462073605856" remote="131295462070000000" Dst="0" />
+<file name="billing.php" server="C:/wamp/www/HIS/" local="131323256236949097" remote="131323256230000000" Dst="1" />
+<file name="admin.php" server="C:/wamp/www/HIS/" local="131325940265479882" remote="131325940260000000" Dst="1" />
+<file name="components.php" server="C:/wamp/www/HIS/" local="131325934408733450" remote="131325934400000000" Dst="1" />
+<file name="radiology.php" server="C:/wamp/www/HIS/" local="131325943951554159" remote="131325943950000000" Dst="1" />
+<file name="admin.php" server="C:/wamp/www/TRHS/" local="131335363448333815" remote="131335363440000000" Dst="0" />
+<file name="frontdesk.php" server="C:/wamp/www/TRHS/" local="131341335823546450" remote="131341335820000000" Dst="0" />
+<file name="doctor.php" server="C:/wamp/www/TRHS/" local="131407892112618412" remote="131407892110000000" Dst="0" />
+<file name="inventory.php" server="C:/wamp/www/TRHS/" local="131339957386233572" remote="131339957380000000" Dst="0" />
+<file name="nurse.php" server="C:/wamp/www/TRHS/" local="131345195669945985" remote="131345195660000000" Dst="0" />
+<file name="components.php" server="C:/wamp/www/TRHS/" local="131344393879176638" remote="131344393870000000" Dst="0" />
+</dwsync>

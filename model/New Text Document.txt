@@ -1,0 +1,18 @@
+<?php
+  
+   class PatientDataModel extends Model
+   {
+      public $patientId="";
+
+      function __construct($pid)
+      {
+        $this->patientid=$pid;
+      }
+
+      function bio()
+      {
+       $data=$this->db->select();
+      }
+
+
+    }
