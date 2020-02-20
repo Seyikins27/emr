@@ -15,7 +15,7 @@
 		   $this->url=lcfirst(__CLASS__);
 		   $this->view->user=Session::get('user');
 		   $this->view->url='admin';
-		   $this->view->pagetitle='TRISATE ADMINISTATOR';
+		   $this->view->pagetitle='HOSPITAL ADMINISTATOR';
 		   $this->view->headertitle='ADMINSTRATOR PORTAL';
 		   $this->view->menuitems=$this->menu();
 		   $this->view->render('templates/header');
